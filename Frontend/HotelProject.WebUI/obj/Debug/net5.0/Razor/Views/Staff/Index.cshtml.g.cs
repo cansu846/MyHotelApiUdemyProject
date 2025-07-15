@@ -25,6 +25,12 @@ using HotelProject.WebUI.Models
 #nullable disable
     ;
 #nullable restore
+#line 4 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Models.Testimonial
+
+#nullable disable
+    ;
+#nullable restore
 #line 1 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\Staff\Index.cshtml"
  using HotelProject.WebUI.Models.Staff
 
@@ -33,7 +39,7 @@ using HotelProject.WebUI.Models
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"7f94227c7edc98c626253b38e997416d6a72a434e5bfa1151f39c57da9e09beb", @"/Views/Staff/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d56564b6acc8f29856d9ae9f40a0fc6c2573b60f5db9b6453d3a441a4682c27d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"95af23d713833664d9b40abd609a993c27f43f8b5f6681b0f0557ce33c10e920", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Staff_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<
 #nullable restore

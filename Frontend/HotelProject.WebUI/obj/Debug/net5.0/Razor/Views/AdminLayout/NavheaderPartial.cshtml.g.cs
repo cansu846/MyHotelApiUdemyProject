@@ -30,10 +30,16 @@ using HotelProject.WebUI.Models.Staff
 
 #nullable disable
     ;
+#nullable restore
+#line 4 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Models.Testimonial
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"46a1f805dafc90828a95e8948aa726c3889a315b707ead28d74bf3696131998f", @"/Views/AdminLayout/NavheaderPartial.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d56564b6acc8f29856d9ae9f40a0fc6c2573b60f5db9b6453d3a441a4682c27d", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"95af23d713833664d9b40abd609a993c27f43f8b5f6681b0f0557ce33c10e920", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_AdminLayout_NavheaderPartial : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -67,7 +73,7 @@ using HotelProject.WebUI.Models.Staff
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<div class=\"nav-header\">\n    <div class=\"brand-logo\">\n        <a href=\"index.html\">\n            <b class=\"logo-abbr\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "46a1f805dafc90828a95e8948aa726c3889a315b707ead28d74bf3696131998f5230", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "46a1f805dafc90828a95e8948aa726c3889a315b707ead28d74bf3696131998f5433", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -82,7 +88,7 @@ using HotelProject.WebUI.Models.Staff
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral(" </b>\n            <span class=\"logo-compact\">");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "46a1f805dafc90828a95e8948aa726c3889a315b707ead28d74bf3696131998f6412", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "46a1f805dafc90828a95e8948aa726c3889a315b707ead28d74bf3696131998f6615", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -97,7 +103,7 @@ using HotelProject.WebUI.Models.Staff
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("</span>\n            <span class=\"brand-title\">\n                ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "46a1f805dafc90828a95e8948aa726c3889a315b707ead28d74bf3696131998f7613", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "46a1f805dafc90828a95e8948aa726c3889a315b707ead28d74bf3696131998f7816", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();

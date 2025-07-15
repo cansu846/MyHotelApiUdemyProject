@@ -38,7 +38,8 @@ namespace HotelProject.Webapi
             services.AddScoped<IRoomService, RoomManager>();
             services.AddScoped<IStaffDal, EfStaffDal>();
             services.AddScoped<IStaffService, StaffManager>();
-
+            services.AddScoped<ITestimonialDal, EfTestimonialDal>();
+            services.AddScoped<ITestimonialService, TestimonialManager>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HotelProject.Webapi", Version = "v1" });

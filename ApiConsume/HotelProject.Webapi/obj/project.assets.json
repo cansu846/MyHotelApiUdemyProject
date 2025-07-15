@@ -1970,6 +1970,20 @@
           "bin/placeholder/HotelProject.DataAccessLayer.dll": {}
         }
       },
+      "HotelProject.DtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "HotelProject.EntityLayer": "1.0.0",
+          "Microsoft.Extensions.Identity.Core": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/HotelProject.DtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelProject.DtoLayer.dll": {}
+        }
+      },
       "HotelProject.EntityLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -6464,6 +6478,11 @@
       "path": "../HotelProject.DataAccessLayer/HotelProject.DataAccessLayer.csproj",
       "msbuildProject": "../HotelProject.DataAccessLayer/HotelProject.DataAccessLayer.csproj"
     },
+    "HotelProject.DtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../HotelProject.DtoLayer/HotelProject.DtoLayer.csproj",
+      "msbuildProject": "../HotelProject.DtoLayer/HotelProject.DtoLayer.csproj"
+    },
     "HotelProject.EntityLayer/1.0.0": {
       "type": "project",
       "path": "../HotelProject.EntityLayer/HotelProject.EntityLayer.csproj",
@@ -6473,6 +6492,8 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "HotelProject.BussinessLayer >= 1.0.0",
+      "HotelProject.DataAccessLayer >= 1.0.0",
+      "HotelProject.DtoLayer >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.17",
       "Microsoft.EntityFrameworkCore >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.17",
@@ -6525,6 +6546,12 @@
           "projectReferences": {
             "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.BussinessLayer\\HotelProject.BussinessLayer.csproj": {
               "projectPath": "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.BussinessLayer\\HotelProject.BussinessLayer.csproj"
+            },
+            "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
+            },
+            "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj"
             }
           }
         }

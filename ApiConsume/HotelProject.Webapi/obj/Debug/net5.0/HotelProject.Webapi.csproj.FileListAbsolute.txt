@@ -74,3 +74,5 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.Webapi\obj
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.Webapi\obj\Debug\net5.0\HotelProject.Webapi.pdb
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.Webapi\obj\Debug\net5.0\HotelProject.Webapi.genruntimeconfig.cache
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.Webapi\obj\Debug\net5.0\ref\HotelProject.Webapi.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.Webapi\bin\Debug\net5.0\HotelProject.DtoLayer.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.Webapi\bin\Debug\net5.0\HotelProject.DtoLayer.pdb

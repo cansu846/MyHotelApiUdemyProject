@@ -34,6 +34,8 @@
       "HotelProject.Webapi/1.0.0": {
         "dependencies": {
           "HotelProject.BussinessLayer": "1.0.0",
+          "HotelProject.DataAccessLayer": "1.0.0",
+          "HotelProject.DtoLayer": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore.Design": "5.0.17",
@@ -1479,6 +1481,21 @@
         },
         "compile": {
           "HotelProject.DataAccessLayer.dll": {}
+        }
+      },
+      "HotelProject.DtoLayer/1.0.0": {
+        "dependencies": {
+          "HotelProject.EntityLayer": "1.0.0",
+          "Microsoft.Extensions.Identity.Core": "5.0.17"
+        },
+        "runtime": {
+          "HotelProject.DtoLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        },
+        "compile": {
+          "HotelProject.DtoLayer.dll": {}
         }
       },
       "HotelProject.EntityLayer/1.0.0": {
@@ -3930,6 +3947,11 @@
       "sha512": ""
     },
     "HotelProject.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HotelProject.DtoLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

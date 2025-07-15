@@ -162,3 +162,5 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\De
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\HotelProject.WebUI.pdb
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\HotelProject.WebUI.genruntimeconfig.cache
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\ref\HotelProject.WebUI.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Staff\AddStaff.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Staff\UpdateStaff.cshtml.g.cs

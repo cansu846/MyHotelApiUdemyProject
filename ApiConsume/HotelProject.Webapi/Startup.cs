@@ -2,6 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using HotelProject.BusinessLayer.Abstract;
+using HotelProject.BusinessLayer.Concrete;
+using HotelProject.DataAccessLayer.Abstract;
+using HotelProject.DataAccessLayer.Concrete;
+using HotelProject.DataAccessLayer.EntityFramework;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +33,12 @@ namespace HotelProject.Webapi
         {
 
             services.AddControllers();
+            services.AddDbContext<Context>();
+            services.AddScoped<IRoomDal, EfRoomDal>();  
+            services.AddScoped<IRoomService, RoomManager>();
+            services.AddScoped<IStaffDal, EfStaffDal>();
+            services.AddScoped<IStaffService, StaffManager>();
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HotelProject.Webapi", Version = "v1" });

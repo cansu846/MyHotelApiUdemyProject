@@ -5,6 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="wwwroot\images\4c2a753f-156e-438d-9929-416313db7d7f.png" />
+    <Content Remove="wwwroot\images\4f84c9b2-abe8-4058-a2f8-85fcd25b6f28.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\4c2a753f-156e-438d-9929-416313db7d7f.png" />
+    <None Include="wwwroot\images\4f84c9b2-abe8-4058-a2f8-85fcd25b6f28.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="15.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
     <PackageReference Include="FluentValidation" Version="11.11.0" />
@@ -29,6 +39,10 @@
   <ItemGroup>
     <ProjectReference Include="..\..\ApiConsume\HotelProject.DataAccessLayer\HotelProject.DataAccessLayer.csproj" />
     <ProjectReference Include="..\..\ApiConsume\HotelProject.EntityLayer\HotelProject.EntityLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\files\" />
   </ItemGroup>
 
 </Project>

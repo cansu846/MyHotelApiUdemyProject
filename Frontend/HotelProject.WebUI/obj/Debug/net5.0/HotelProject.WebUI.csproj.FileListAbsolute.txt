@@ -247,3 +247,6 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\De
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\NETCore.MailKit.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminMail\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminImageFile\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminFile\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\ErrorPage\Error404.cshtml.g.cs

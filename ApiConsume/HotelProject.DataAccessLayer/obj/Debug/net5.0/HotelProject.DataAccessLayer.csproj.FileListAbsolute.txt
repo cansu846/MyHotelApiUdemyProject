@@ -3,7 +3,9 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccess
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.runtimeconfig.dev.json
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.pdb
+C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DtoLayer.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.EntityLayer.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.DtoLayer.pdb
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\bin\Debug\net5.0\HotelProject.EntityLayer.pdb
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.csproj.AssemblyReference.cache
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.DataAccessLayer\obj\Debug\net5.0\HotelProject.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig

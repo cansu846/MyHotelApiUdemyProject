@@ -1850,6 +1850,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "HotelProject.DtoLayer": "1.0.0",
           "HotelProject.EntityLayer": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore": "5.0.17",
@@ -1861,6 +1862,20 @@
         },
         "runtime": {
           "bin/placeholder/HotelProject.DataAccessLayer.dll": {}
+        }
+      },
+      "HotelProject.DtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "HotelProject.EntityLayer": "1.0.0",
+          "Microsoft.Extensions.Identity.Core": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/HotelProject.DtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelProject.DtoLayer.dll": {}
         }
       },
       "HotelProject.EntityLayer/1.0.0": {
@@ -6244,6 +6259,11 @@
       "type": "project",
       "path": "../HotelProject.DataAccessLayer/HotelProject.DataAccessLayer.csproj",
       "msbuildProject": "../HotelProject.DataAccessLayer/HotelProject.DataAccessLayer.csproj"
+    },
+    "HotelProject.DtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../HotelProject.DtoLayer/HotelProject.DtoLayer.csproj",
+      "msbuildProject": "../HotelProject.DtoLayer/HotelProject.DtoLayer.csproj"
     },
     "HotelProject.EntityLayer/1.0.0": {
       "type": "project",

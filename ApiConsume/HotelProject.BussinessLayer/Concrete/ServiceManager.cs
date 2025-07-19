@@ -11,9 +11,9 @@ namespace HotelProject.BusinessLayer.Concrete
 {
     public class ServiceManager : IServiceService
     {
-        private readonly IServicesDal _servicesDal;
+        private readonly IServiceDal _servicesDal;
 
-        public ServiceManager(IServicesDal servicesDal)
+        public ServiceManager(IServiceDal servicesDal)
         {
             _servicesDal = servicesDal;
         }

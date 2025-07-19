@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "HotelProject.DataAccessLayer/1.0.0": {
         "dependencies": {
+          "HotelProject.DtoLayer": "1.0.0",
           "HotelProject.EntityLayer": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore": "5.0.17",
@@ -1128,6 +1129,18 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "HotelProject.DtoLayer/1.0.0": {
+        "dependencies": {
+          "HotelProject.EntityLayer": "1.0.0",
+          "Microsoft.Extensions.Identity.Core": "5.0.17"
+        },
+        "runtime": {
+          "HotelProject.DtoLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "HotelProject.EntityLayer/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
@@ -1863,6 +1876,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "HotelProject.DtoLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "HotelProject.EntityLayer/1.0.0": {
       "type": "project",

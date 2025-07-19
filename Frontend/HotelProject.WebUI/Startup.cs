@@ -1,3 +1,9 @@
+using FluentValidation;
+using FluentValidation.AspNetCore;
+using HotelProject.DataAccessLayer.Concrete;
+using HotelProject.EntityLayer.Concrete;
+using HotelProject.WebUI.Dtos.GuestDto;
+using HotelProject.WebUI.ValidationRules.GuestValidationRules;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -23,9 +29,15 @@ namespace HotelProject.WebUI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllersWithViews();
-            services.AddHttpClient();   
-        
+            services.AddDbContext<Context>();
+            services.AddIdentity<AppUser,AppRole>().AddEntityFrameworkStores<Context>();
+            services.AddControllersWithViews().AddFluentValidation(fv =>
+            {
+                // Validatorlar? bu assembly'den otomatik bulur
+                fv.RegisterValidatorsFromAssemblyContaining<CreateGuestValidator>();
+            });
+            services.AddHttpClient();
+            services.AddAutoMapper(typeof(Startup));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,4 +1,5 @@
-﻿using HotelProject.DataAccessLayer.Abstract;
+﻿
+using HotelProject.DataAccessLayer.Abstract;
 using HotelProject.DataAccessLayer.Concrete;
 using HotelProject.DataAccessLayer.Repositories;
 using HotelProject.EntityLayer.Concrete;
@@ -10,18 +11,18 @@ using System.Threading.Tasks;
 
 namespace HotelProject.DataAccessLayer.EntityFramework
 {
-    public class EfContactDal : GenericRepository<Contact>
+    public class EfContactDal : GenericRepository<Contact>, IContactDal
     {
+        private readonly Context _context;
+
         public EfContactDal(Context context) : base(context)
         {
+            _context = context;
+        }
+        public int GetContactCount()
+        {
+            return _context.Contacts.Count();
 
         }
-
-        //public int GetContactCount()
-        //{
-        //    var context = new Context();
-        //    return context.Contacts.Count();
-             
-        //}
     }
 }

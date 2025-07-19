@@ -40,6 +40,43 @@ namespace HotelProject.Webapi
             services.AddScoped<IStaffService, StaffManager>();
             services.AddScoped<ITestimonialDal, EfTestimonialDal>();
             services.AddScoped<ITestimonialService, TestimonialManager>();
+
+            services.AddScoped<IServiceDal, EfServiceDal>();
+            services.AddScoped<IServiceService, ServiceManager>();
+
+            services.AddScoped<IAboutDal, EfAboutDal>();
+            services.AddScoped<IAboutService, AboutManager>();
+
+            services.AddScoped<ISubscribeDal, EfSubscribeDal>();
+            services.AddScoped<ISubscribeService, SubscribeManager>();
+
+            services.AddScoped<IBookingDal, EfBookingDal>();
+            services.AddScoped<IBookingService, BookingManager>();
+
+            services.AddScoped<IContactDal, EfContactDal>();
+            services.AddScoped<IContactService, ContactManager>();
+
+            services.AddScoped<IGuestDal, EfGuestDal>();
+            services.AddScoped<IGuestService, GuestManager>();
+
+            services.AddScoped<IRoomDal, EfRoomDal>();
+            services.AddScoped<IRoomService, RoomManager>();
+
+            //services.AddScoped<ISendMessageDal, EfSendMessageDal>();
+            //services.AddScoped<ISendMessageService, SendMessageManager>();
+
+            services.AddScoped<IMessageCategoryDal, EfMessageCategoryDal>();
+            services.AddScoped<IMessageCategoryService, MessageCategoryManager>();
+
+            services.AddScoped<IWorkLocationDal, EfWorkLocationDal>();
+            services.AddScoped<IWorkLocationService, WorkLocationManager>();
+
+            //services.AddScoped<IAppUserDal, EfAppUserDal>();
+
+            services.AddAutoMapper(typeof(Startup));
+
+
+
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "HotelProject.Webapi", Version = "v1" });

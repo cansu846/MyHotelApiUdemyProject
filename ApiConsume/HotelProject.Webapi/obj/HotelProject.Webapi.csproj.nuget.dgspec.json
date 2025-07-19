@@ -144,6 +144,9 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
+              "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
+                "projectPath": "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj"
+              },
               "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
                 "projectPath": "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
               }
@@ -462,6 +465,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.17, )"

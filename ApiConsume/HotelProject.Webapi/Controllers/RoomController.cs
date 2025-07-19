@@ -46,7 +46,7 @@ namespace HotelProject.Webapi.Controllers
             values.Title = room.Title;
             values.BathCount = room.BathCount;  
             values.BedCount = room.BedCount;    
-            
+            roomService.TUpdate(values);
             return Ok("Room successfully updated");    
         }
 

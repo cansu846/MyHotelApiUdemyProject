@@ -4,9 +4,11 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessL
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.BussinessLayer.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.BussinessLayer.pdb
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.DtoLayer.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.EntityLayer.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.DataAccessLayer.pdb
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.EntityLayer.pdb
+C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\bin\Debug\net5.0\HotelProject.DtoLayer.pdb
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\obj\Debug\net5.0\HotelProject.BussinessLayer.csproj.AssemblyReference.cache
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\obj\Debug\net5.0\HotelProject.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Cansu\source\repos\MyHotelApiProject\ApiConsume\HotelProject.BussinessLayer\obj\Debug\net5.0\HotelProject.BussinessLayer.AssemblyInfoInputs.cache

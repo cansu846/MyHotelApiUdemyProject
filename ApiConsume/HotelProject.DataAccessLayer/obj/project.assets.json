@@ -1846,6 +1846,20 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "HotelProject.DtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "HotelProject.EntityLayer": "1.0.0",
+          "Microsoft.Extensions.Identity.Core": "5.0.17"
+        },
+        "compile": {
+          "bin/placeholder/HotelProject.DtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HotelProject.DtoLayer.dll": {}
+        }
+      },
       "HotelProject.EntityLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -6223,6 +6237,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "HotelProject.DtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../HotelProject.DtoLayer/HotelProject.DtoLayer.csproj",
+      "msbuildProject": "../HotelProject.DtoLayer/HotelProject.DtoLayer.csproj"
+    },
     "HotelProject.EntityLayer/1.0.0": {
       "type": "project",
       "path": "../HotelProject.EntityLayer/HotelProject.EntityLayer.csproj",
@@ -6231,6 +6250,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "HotelProject.DtoLayer >= 1.0.0",
       "HotelProject.EntityLayer >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.17",
       "Microsoft.EntityFrameworkCore >= 5.0.17",
@@ -6281,6 +6301,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.DtoLayer\\HotelProject.DtoLayer.csproj"
+            },
             "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
               "projectPath": "C:\\Users\\Cansu\\source\\repos\\MyHotelApiProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
             }

@@ -90,10 +90,22 @@ using HotelProject.WebUI.Dtos.GuestDto
 
 #nullable disable
     ;
+#nullable restore
+#line 14 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Dtos.SendMessageDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 15 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Models.Mail
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"a4609964ece02fb64691c212ee730913493bb87e0aef83e974c72edbe7e55ac1", @"/Views/Contact/SendMessage.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"b36b6d0747c9db8bdaf3664fd8984faad93bb265945395f70f4541b0d8dc1ef9", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d6d2db47d82e78a366503e169dedac3493f6637c175495e3f19ec30477f7bcc2", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Contact_SendMessage : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<
 #nullable restore
@@ -167,7 +179,7 @@ using HotelProject.WebUI.Dtos.GuestDto
             BeginWriteAttribute("allowfullscreen", " allowfullscreen=\"", 1896, "\"", 1914, 0);
             EndWriteAttribute();
             WriteLiteral(" aria-hidden=\"false\"\r\n                        tabindex=\"0\"></iframe>\r\n            </div>\r\n            <div class=\"col-md-6\">\r\n                <div class=\"wow fadeInUp\" data-wow-delay=\"0.2s\">\r\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a4609964ece02fb64691c212ee730913493bb87e0aef83e974c72edbe7e55ac19337", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a4609964ece02fb64691c212ee730913493bb87e0aef83e974c72edbe7e55ac19739", async() => {
                 WriteLiteral(@"
                         <div class=""row g-3"">
                             <div class=""col-md-6"">

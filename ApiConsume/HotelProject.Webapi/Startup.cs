@@ -62,8 +62,8 @@ namespace HotelProject.Webapi
             services.AddScoped<IRoomDal, EfRoomDal>();
             services.AddScoped<IRoomService, RoomManager>();
 
-            //services.AddScoped<ISendMessageDal, EfSendMessageDal>();
-            //services.AddScoped<ISendMessageService, SendMessageManager>();
+            services.AddScoped<ISendMessageDal, EfSendMessageDal>();
+            services.AddScoped<ISendMessageService, SendMessageManager>();
 
             services.AddScoped<IMessageCategoryDal, EfMessageCategoryDal>();
             services.AddScoped<IMessageCategoryService, MessageCategoryManager>();

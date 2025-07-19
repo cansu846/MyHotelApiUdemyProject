@@ -235,3 +235,15 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\De
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\libman.json
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\HotelProject.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\AddSendMessage.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\Inbox.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\MessageDetailsByInbox.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\MessageDetailsBySendbox.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\Sendbox.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\SideBarAdminContactCategoryPartial.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminContact\SideBarAdminContactPartial.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\MailKit.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\NETCore.MailKit.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminMail\Index.cshtml.g.cs

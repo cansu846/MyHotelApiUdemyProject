@@ -1,6 +1,10 @@
 ﻿using FluentValidation;
 using FluentValidation.AspNetCore;
+using HotelProject.BusinessLayer.Abstract;
+using HotelProject.BussinessLayer.Concrete;
+using HotelProject.DataAccessLayer.Abstract;
 using HotelProject.DataAccessLayer.Concrete;
+using HotelProject.DataAccessLayer.EntityFramework;
 using HotelProject.EntityLayer.Concrete;
 using HotelProject.WebUI.Dtos.GuestDto;
 using HotelProject.WebUI.ValidationRules.GuestValidationRules;
@@ -34,6 +38,10 @@ namespace HotelProject.WebUI
         {
             services.AddDbContext<Context>();
             services.AddIdentity<AppUser,AppRole>().AddEntityFrameworkStores<Context>();
+            services.AddScoped<IAppUserService, AppUserManager>();
+            services.AddScoped<IAppUserDal, EfAppUserDal>();
+
+
             services.AddControllersWithViews().AddFluentValidation(fv =>
             {
                 // Validatorlar? bu assembly'den otomatik bulur

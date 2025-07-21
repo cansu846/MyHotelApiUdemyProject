@@ -256,3 +256,7 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\De
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Role\AddRole.cshtml.g.cs
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Role\UpdateRole.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\HotelProject.BussinessLayer.dll
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\bin\Debug\net5.0\HotelProject.BussinessLayer.pdb
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\RoleAssign\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\RoleAssign\AssignRole.cshtml.g.cs

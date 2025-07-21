@@ -43,12 +43,6 @@ using HotelProject.WebUI.Dtos.ServiceDto
 #nullable disable
     ;
 #nullable restore
-#line 6 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
-using HotelProject.WebUI.Dtos.AppUserDto
-
-#nullable disable
-    ;
-#nullable restore
 #line 7 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
 using HotelProject.WebUI.Dtos.StaffDto
 
@@ -102,10 +96,22 @@ using HotelProject.WebUI.Models.Mail
 
 #nullable disable
     ;
+#nullable restore
+#line 16 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Dtos.WorkLocationDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 17 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Dtos.AppUserDto
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"1487f57e70b2325f1ab08918ea71c301a2e6f85f6f7fe728a9b2bfd15385c970", @"/Views/AdminLayout/_AdminLayout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d6d2db47d82e78a366503e169dedac3493f6637c175495e3f19ec30477f7bcc2", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"e5bbcc5772ab5004f39237b0c6305f46dbeb26edf4fd7acfbe02d276c24abbe9", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_AdminLayout__AdminLayout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -154,7 +160,7 @@ using HotelProject.WebUI.Models.Mail
 #nullable disable
             );
             WriteLiteral("\r\n\r\n");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1487f57e70b2325f1ab08918ea71c301a2e6f85f6f7fe728a9b2bfd15385c9706626", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1487f57e70b2325f1ab08918ea71c301a2e6f85f6f7fe728a9b2bfd15385c9706833", async() => {
                 WriteLiteral("\r\n\r\n\r\n    <div id=\"main-wrapper\">\r\n\r\n        ");
                 Write(
 #nullable restore

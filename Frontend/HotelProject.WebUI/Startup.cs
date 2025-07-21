@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Authorization;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -40,6 +41,8 @@ namespace HotelProject.WebUI
             });
             services.AddHttpClient();
             services.AddAutoMapper(typeof(Startup));
+
+
             //proje bazında authorization saglar
             services.AddMvc(config =>
             {

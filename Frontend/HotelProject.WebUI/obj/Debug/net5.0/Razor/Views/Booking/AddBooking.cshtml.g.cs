@@ -43,12 +43,6 @@ using HotelProject.WebUI.Dtos.ServiceDto
 #nullable disable
     ;
 #nullable restore
-#line 6 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
-using HotelProject.WebUI.Dtos.AppUserDto
-
-#nullable disable
-    ;
-#nullable restore
 #line 7 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
 using HotelProject.WebUI.Dtos.StaffDto
 
@@ -102,10 +96,22 @@ using HotelProject.WebUI.Models.Mail
 
 #nullable disable
     ;
+#nullable restore
+#line 16 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Dtos.WorkLocationDto
+
+#nullable disable
+    ;
+#nullable restore
+#line 17 "C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\Views\_ViewImports.cshtml"
+using HotelProject.WebUI.Dtos.AppUserDto
+
+#nullable disable
+    ;
     #line default
     #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe", @"/Views/Booking/AddBooking.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"d6d2db47d82e78a366503e169dedac3493f6637c175495e3f19ec30477f7bcc2", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"e5bbcc5772ab5004f39237b0c6305f46dbeb26edf4fd7acfbe02d276c24abbe9", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     internal sealed class Views_Booking_AddBooking : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<
 #nullable restore
@@ -219,7 +225,7 @@ using HotelProject.WebUI.Models.Mail
                 <div class=""row g-3"">
                     <div class=""col-6 text-end"">
                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe21715", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe21922", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -236,7 +242,7 @@ using HotelProject.WebUI.Models.Mail
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                    </div>\n                    <div class=\"col-6 text-start\">\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe23124", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe23331", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -252,7 +258,7 @@ using HotelProject.WebUI.Models.Mail
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                    </div>\n                    <div class=\"col-6 text-end\">\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe24448", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe24655", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -268,7 +274,7 @@ using HotelProject.WebUI.Models.Mail
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                    </div>\n                    <div class=\"col-6 text-start\">\n                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe25774", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("img", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe25981", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -284,9 +290,9 @@ using HotelProject.WebUI.Models.Mail
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-6\">\n                <div class=\"wow fadeInUp\" data-wow-delay=\"0.2s\">\n                    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe27196", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe27403", async() => {
                 WriteLiteral("\n                        <div class=\"row g-3\">\n                            <div class=\"col-md-6\">\n                                <div class=\"form-floating\">\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe27679", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe27886", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -313,7 +319,7 @@ using HotelProject.WebUI.Models.Mail
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\n                                    <label for=\"name\">Adınız Soyadınız</label>\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe29845", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe30052", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -337,7 +343,7 @@ using HotelProject.WebUI.Models.Mail
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\n                                </div>\n                            </div>\n                            <div class=\"col-md-6\">\n                                <div class=\"form-floating\">\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe31868", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagOnly, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe32075", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -364,7 +370,7 @@ using HotelProject.WebUI.Models.Mail
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\n                                    <label for=\"email\">Mail Adresiniz</label>\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe34034", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe34241", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -394,7 +400,7 @@ using HotelProject.WebUI.Models.Mail
                             <div class=""col-md-6"">
                                 <div class=""form-floating date"" id=""date3"" data-target-input=""nearest"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe36102", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe36309", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -424,7 +430,7 @@ using HotelProject.WebUI.Models.Mail
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\n                                    <label for=\"checkin\">Giriş Tarihi</label>\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe38554", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe38761", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -453,7 +459,7 @@ using HotelProject.WebUI.Models.Mail
                             <div class=""col-md-6"">
                                 <div class=""form-floating date"" id=""date4"" data-target-input=""nearest"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe40624", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe40831", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_InputTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper>();
@@ -483,7 +489,7 @@ using HotelProject.WebUI.Models.Mail
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\n                                    <label for=\"checkout\">Çıkış Tarihi</label>\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe43078", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("span", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe43285", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_ValidationMessageTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper>();
@@ -507,9 +513,9 @@ using HotelProject.WebUI.Models.Mail
                 Write(__tagHelperExecutionContext.Output);
                 __tagHelperExecutionContext = __tagHelperScopeManager.End();
                 WriteLiteral("\n\n                                </div>\n                            </div>\n                            <div class=\"col-md-6\">\n                                <div class=\"form-floating\">\n                                    ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe45107", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe45314", async() => {
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe45438", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe45645", async() => {
                         WriteLiteral("Yetişkin 1");
                     }
                     );
@@ -525,7 +531,7 @@ using HotelProject.WebUI.Models.Mail
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe46794", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe47001", async() => {
                         WriteLiteral("Yetişkin 2");
                     }
                     );
@@ -541,7 +547,7 @@ using HotelProject.WebUI.Models.Mail
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe48150", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe48357", async() => {
                         WriteLiteral("Yetişkin 3");
                     }
                     );
@@ -587,9 +593,9 @@ using HotelProject.WebUI.Models.Mail
                             <div class=""col-md-6"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe51408", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe51615", async() => {
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe51739", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe51946", async() => {
                         WriteLiteral("Çocuk 1");
                     }
                     );
@@ -605,7 +611,7 @@ using HotelProject.WebUI.Models.Mail
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe53092", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe53299", async() => {
                         WriteLiteral("Çocuk 2");
                     }
                     );
@@ -621,7 +627,7 @@ using HotelProject.WebUI.Models.Mail
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe54445", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe54652", async() => {
                         WriteLiteral("Çocuk 3");
                     }
                     );
@@ -667,9 +673,9 @@ using HotelProject.WebUI.Models.Mail
                             <div class=""col-12"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe57695", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("select", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe57902", async() => {
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe58026", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe58233", async() => {
                         WriteLiteral("Oda 1");
                     }
                     );
@@ -685,7 +691,7 @@ using HotelProject.WebUI.Models.Mail
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe59377", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe59584", async() => {
                         WriteLiteral("Oda 2");
                     }
                     );
@@ -701,7 +707,7 @@ using HotelProject.WebUI.Models.Mail
                     Write(__tagHelperExecutionContext.Output);
                     __tagHelperExecutionContext = __tagHelperScopeManager.End();
                     WriteLiteral("\n                                        ");
-                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe60728", async() => {
+                    __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe60935", async() => {
                         WriteLiteral("Oda 3");
                     }
                     );
@@ -747,7 +753,7 @@ using HotelProject.WebUI.Models.Mail
                             <div class=""col-12"">
                                 <div class=""form-floating"">
                                     ");
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("textarea", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe63973", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("textarea", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4dca046e89c7d66ba8c6848956b671927034f18a637856aff12ab07d013cbbbe64180", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_TagHelpers_TextAreaTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper>();

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using HotelProject.BusinessLayer.Abstract;
 using HotelProject.BusinessLayer.Concrete;
+using HotelProject.BussinessLayer.Concrete;
 using HotelProject.DataAccessLayer.Abstract;
 using HotelProject.DataAccessLayer.Concrete;
 using HotelProject.DataAccessLayer.EntityFramework;
@@ -71,7 +72,8 @@ namespace HotelProject.Webapi
             services.AddScoped<IWorkLocationDal, EfWorkLocationDal>();
             services.AddScoped<IWorkLocationService, WorkLocationManager>();
 
-            //services.AddScoped<IAppUserDal, EfAppUserDal>();
+            services.AddScoped<IAppUserService, AppUserManager>();
+            services.AddScoped<IAppUserDal, EfAppUserDal>();
 
             services.AddAutoMapper(typeof(Startup));
 

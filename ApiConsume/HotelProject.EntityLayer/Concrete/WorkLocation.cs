@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HotelProject.EntityLayer.Concrete
 {
+    //calişilan otelin bilgileri
     public class WorkLocation
     {
         public int WorkLocationID { get; set; }

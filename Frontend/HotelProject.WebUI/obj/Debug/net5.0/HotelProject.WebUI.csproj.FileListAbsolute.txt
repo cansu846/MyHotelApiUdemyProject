@@ -250,3 +250,9 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\De
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminImageFile\Index.cshtml.g.cs
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminFile\Index.cshtml.g.cs
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\ErrorPage\Error404.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\WorkLocation\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\AdminUsers\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Role\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Role\AddRole.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Role\UpdateRole.cshtml.g.cs

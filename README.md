@@ -2,7 +2,7 @@
 
 # 🏨 ASP.NET Core Otel Rezervasyon Sistemi
 
-Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) hocanın Udemy’deki **“ASP.NET Core API - RapidAPI ve API Consume”** eğitimi temel alınarak geliştirilmiştir. Proje, gerçek dünyaya uygun olarak **n katmanlı mimari (N-Tier Architecture)** ile yapılandırılmış ve hem kullanıcı hem de yönetici (admin) taraflı işlevler içermektedir.
+Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) hocanın Udemy’deki **“ASP.NET Core API - RapidAPI ve API Consume”** eğitimi temel alınarak geliştirilmiştir. Proje, gerçek dünyaya uygun olarak **n katmanlı mimari (N-Tier Architecture)** ile yapılandırılmış ve hem kullanıcı hem de yönetici (admin) taraflı işlevler içermektedir. Projenin genelinde kendim oluşturmuş oldugum web api projesi ve rapid apiden cekmiş oldugum apiler user interface tarafında consume edilmiştir.
 
 ## 🚀 Kullanılan Teknolojiler
 

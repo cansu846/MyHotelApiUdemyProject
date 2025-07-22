@@ -85,6 +85,9 @@ Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) hocanın 
 - HotelProject.EntityLayer --> Model / DTO tanımları
 
 ---
+## 📺 Tanıtım Videosu
+
+[![Videoyu YouTube'da İzle][[(https://img.youtube.com/vi/KOpKjR-4YSE/0.jpg)]([https://youtu.be/KOpKjR-4YSE](https://youtu.be/KOpKjR-4YSE))](https://youtu.be/KOpKjR-4YSE)](https://youtu.be/KOpKjR-4YSE)
 
 ## 📷 Ekran Görüntüleri
 <img width="1919" height="1079" alt="Screenshot 2025-07-22 165603" src="https://github.com/user-attachments/assets/cb528001-45ea-40d3-a73d-87afcc6b6e9a" />
@@ -101,8 +104,6 @@ Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) hocanın 
 <img width="1916" height="1073" alt="Screenshot 2025-07-22 165754" src="https://github.com/user-attachments/assets/ddaab0ac-6a39-4bbd-addc-d62a2c9c67dc" />
 <img width="1919" height="1079" alt="Screenshot 2025-07-22 165801" src="https://github.com/user-attachments/assets/f493edce-5f34-4de8-bbed-72e8420d282c" />
 
-## 📺 Tanıtım Videosu
 
-[![Videoyu YouTube'da İzle](https://img.youtube.com/vi/KOpKjR-4YSE/0.jpg)](https://youtu.be/KOpKjR-4YSE)
 
 

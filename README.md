@@ -87,3 +87,18 @@ Bu proje, [Murat Yücedağ](https://www.udemy.com/user/murat-yucedag/) hocanın 
 ---
 
 ## 📷 Ekran Görüntüleri
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 165603" src="https://github.com/user-attachments/assets/cb528001-45ea-40d3-a73d-87afcc6b6e9a" />
+<img width="1917" height="1074" alt="Screenshot 2025-07-22 165611" src="https://github.com/user-attachments/assets/e4c531bc-5ad7-4896-8d55-2428da997509" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 165618" src="https://github.com/user-attachments/assets/d4e41e5e-751b-4509-9060-022709c10d5c" />
+<img width="1914" height="1079" alt="Screenshot 2025-07-22 165629" src="https://github.com/user-attachments/assets/737031d0-af3f-4477-990f-86c56e27a89c" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 165638" src="https://github.com/user-attachments/assets/cb4533d8-ea89-4ce3-8616-cccb2b5bb823" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 165645" src="https://github.com/user-attachments/assets/2536cae6-eab9-423f-8f32-15b5492d496f" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 165654" src="https://github.com/user-attachments/assets/e34d2cdc-4aac-4e5c-98e0-ab6d9bdbd66d" />
+<img width="1916" height="1077" alt="Screenshot 2025-07-22 165712" src="https://github.com/user-attachments/assets/6ad94bc9-68e7-4397-882a-58aa10aa7c90" />
+<img width="1915" height="1074" alt="Screenshot 2025-07-22 165726" src="https://github.com/user-attachments/assets/cd230fca-29ae-402f-8734-06e80cb66a6c" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 165733" src="https://github.com/user-attachments/assets/a535be00-a3e0-43bd-a27d-9922d7f239cd" />
+<img width="1916" height="1076" alt="Screenshot 2025-07-22 165747" src="https://github.com/user-attachments/assets/9c0848a0-a933-4e94-a330-0f3b52b97cb1" />
+<img width="1916" height="1073" alt="Screenshot 2025-07-22 165754" src="https://github.com/user-attachments/assets/ddaab0ac-6a39-4bbd-addc-d62a2c9c67dc" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-22 165801" src="https://github.com/user-attachments/assets/f493edce-5f34-4de8-bbed-72e8420d282c" />
+
+

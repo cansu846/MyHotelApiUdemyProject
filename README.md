@@ -18,7 +18,7 @@ Projede hem kendi geliştirdiğim Web API hem de RapidAPI üzerinden alınan ver
 - Fluent Validation
 - Role-based Authorization
 - Admin & Kullanıcı panelleri
-
+- MSSQL (Microsoft SQL Server)
 ---
 
 ## 🌐 Proje Özellikleri

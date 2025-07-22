@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HotelProject.Webapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43145a61c215211bbff1903f8a8bf588f2711b55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b493a5eedbbcee1e774622cbae94cc9cf8e35b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("HotelProject.Webapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HotelProject.Webapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

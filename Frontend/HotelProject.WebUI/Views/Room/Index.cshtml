@@ -1,0 +1,29 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_HeadPartial")
+
+<body>
+    <div class="bg-white p-1">
+
+        @await Component.InvokeAsync("_SpinnerPartial")
+
+        @await Component.InvokeAsync("_NavbarPartial")
+        @await Component.InvokeAsync("_RoomCoverPartial")
+        @await Component.InvokeAsync("_SearchRoomPartial")
+        @await Component.InvokeAsync("_AvailableRoomPartial")
+
+  
+        <!-- Room End -->
+        @await Html.PartialAsync("/Views/Default/_SubscribePartial.cshtml")
+
+        @await Component.InvokeAsync("_FooterPartial")
+
+        <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+    </div>
+    @await Component.InvokeAsync("_ScriptsPartial")
+</body>
+</html>

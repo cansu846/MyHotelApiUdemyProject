@@ -1,0 +1,1230 @@
+
+  [
+    {
+      "hotel_id": 14087993,
+      "accessibilityLabel": "Sky Luxe Hotel Konyaaltı.\n8.8 Fabulous 14 reviews.\n‎6.7 km from centre‬\n‎400 m from beach‬.\nLimited-time Deal.\nBreakfast included.\n Hotel room : 1 bed.\nOriginal price 483 USD. Current price 271 USD..\nIncludes taxes and charges.\nOnly 2 left at this price on Booking.com.",
+      "property": {
+        "propertyClass": 0,
+        "reviewCount": 14,
+        "mainPhotoId": 682071884,
+        "blockIds": [
+          "1408799306_412659406_2_1_0_923529"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.864563,
+        "isPreferred": false,
+        "accuratePropertyClass": 0,
+        "position": 0,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/682071884.jpg?k=dbcd22dca3a7ff520effb4edd1bb0e6efad600cf4d31409ca78d1bf369270b75&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/682071884.jpg?k=dbcd22dca3a7ff520effb4edd1bb0e6efad600cf4d31409ca78d1bf369270b75&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/682071884.jpg?k=dbcd22dca3a7ff520effb4edd1bb0e6efad600cf4d31409ca78d1bf369270b75&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "14:30"
+        },
+        "longitude": 30.6361198,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 14087993,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.80000019,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "11:30"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 270.5047
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Limited-time Deal",
+              "explanation": "Limited-time Deal",
+              "identifier": "Limited Time Deal",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 483.048279
+          }
+        },
+        "name": "Sky Luxe Hotel Konyaaltı",
+        "rankingPosition": 0,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Fabulous",
+        "isFirstPage": true,
+        "isPreferredPlus": false
+      }
+    },
+    {
+      "hotel_id": 9474254,
+      "accessibilityLabel": "MIRAMOR HOTEL & Spa - ULTRA ALL INCLUSIVE SELECTION.\n5 out of 5 stars.\nThis is a Preferred Plus property.\n8.0 Very good 7360 reviews.\n‎36.5 km from centre‬\n‎Beachfront‬.\nMobile-only price.\n Hotel room : 1 bed.\nOriginal price 2440 USD. Current price 672 USD..\nIncludes taxes and charges.\nOnly 1 left at this price on Booking.com.",
+      "property": {
+        "propertyClass": 5,
+        "reviewCount": 7360,
+        "mainPhotoId": 439412901,
+        "blockIds": [
+          "947425405_367321238_1_42_0_1127375"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.577713,
+        "isPreferred": true,
+        "accuratePropertyClass": 5,
+        "position": 1,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/439412901.jpg?k=d026c2bfd6d0a53dc03db7bffc6bbc32bcb827e8c84689f38a1159dc21fddb6c&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/439412901.jpg?k=d026c2bfd6d0a53dc03db7bffc6bbc32bcb827e8c84689f38a1159dc21fddb6c&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/439412901.jpg?k=d026c2bfd6d0a53dc03db7bffc6bbc32bcb827e8c84689f38a1159dc21fddb6c&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:30"
+        },
+        "longitude": 30.5821877,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 9474254,
+        "wishlistName": "Antalya",
+        "reviewScore": 8,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 671.541809
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 2439.63062
+          }
+        },
+        "name": "MIRAMOR HOTEL & Spa - ULTRA ALL INCLUSIVE SELECTION",
+        "rankingPosition": 1,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 7112427,
+      "accessibilityLabel": "Old Town Point Hotel & Spa Antalya.\n4 out of 5 stars.\nThis is a Preferred Plus property.\n8.1 Very good 4383 reviews.\n‎In city centre‬\n‎950 m from beach‬.\nBreakfast included.\n Hotel room : 2 beds.\n277 USD.\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 4,
+        "reviewCount": 4383,
+        "mainPhotoId": 479198194,
+        "blockIds": [
+          "711242709_0_1_1_0"
+        ],
+        "optOutFromGalleryChanges": 1,
+        "latitude": 36.8898392,
+        "isPreferred": true,
+        "accuratePropertyClass": 4,
+        "position": 2,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/479198194.jpg?k=8ddbb2988281021341fcf98050e33790d9c465c3b976f0cc6f17b78be5d69c42&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/479198194.jpg?k=8ddbb2988281021341fcf98050e33790d9c465c3b976f0cc6f17b78be5d69c42&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/479198194.jpg?k=8ddbb2988281021341fcf98050e33790d9c465c3b976f0cc6f17b78be5d69c42&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.6951427,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 7112427,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.10000038,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "11:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 277.410004
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": null
+        },
+        "name": "Old Town Point Hotel & Spa Antalya",
+        "rankingPosition": 2,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 11797479,
+      "accessibilityLabel": "SEAPHORIA BEACH HOTEL & Spa - by Mir'Amor-Ultra All Inclusive.\n5 out of 5 stars.\nThis is a Preferred Plus property.\n8.2 Very good 2069 reviews.\n‎89.9 km from centre‬\n‎Beachfront‬.\nMobile-only price.\nAll-Inclusive.\n Hotel room : 1 bed.\nOriginal price 5053 USD. Current price 1391 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 5,
+        "reviewCount": 2069,
+        "mainPhotoId": 550403511,
+        "blockIds": [
+          "1179747902_390444040_2_85_0_1127383"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.6508102,
+        "isPreferred": true,
+        "accuratePropertyClass": 5,
+        "position": 3,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/550403511.jpg?k=3bfcd79552a194c48c3142a552ba16467f076a8b6154b1a9a40981330f5a0269&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/550403511.jpg?k=3bfcd79552a194c48c3142a552ba16467f076a8b6154b1a9a40981330f5a0269&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/550403511.jpg?k=3bfcd79552a194c48c3142a552ba16467f076a8b6154b1a9a40981330f5a0269&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 31.6672039,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 11797479,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.19999981,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 1390.99658
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 5053.31982
+          }
+        },
+        "name": "SEAPHORIA BEACH HOTEL & Spa - by Mir'Amor-Ultra All Inclusive",
+        "rankingPosition": 3,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 11780037,
+      "accessibilityLabel": "Ambassador Hotel & Spa- All Inclusive.\n4 out of 5 stars.\nThis is a Preferred Plus property.\n8.1 Very good 1269 reviews.\n‎34.4 km from centre‬\n‎Beachfront‬.\nMobile-only price.\nAll-Inclusive.\n Hotel room : 2 beds.\nOriginal price 2185 USD. Current price 601 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 4,
+        "reviewCount": 1269,
+        "mainPhotoId": 543512307,
+        "blockIds": [
+          "1178003708_390309143_0_85_0_1127376"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.6022644,
+        "isPreferred": true,
+        "accuratePropertyClass": 4,
+        "position": 4,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/543512307.jpg?k=d9b6a08c9ae100a2d1f38f0a4e855c237d31a370978dc0cd4ff45bcbc6def6db&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/543512307.jpg?k=d9b6a08c9ae100a2d1f38f0a4e855c237d31a370978dc0cd4ff45bcbc6def6db&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/543512307.jpg?k=d9b6a08c9ae100a2d1f38f0a4e855c237d31a370978dc0cd4ff45bcbc6def6db&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.56604,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 11780037,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.10000038,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 601.321777
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 2184.50806
+          }
+        },
+        "name": "Ambassador Hotel & Spa- All Inclusive",
+        "rankingPosition": 4,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 12257710,
+      "accessibilityLabel": "Delta Hotels by Marriott Antalya Lara - Adult Only 18 Plus.\n5 out of 5 stars.\nThis is a Preferred property.\n8.6 Fabulous 355 reviews.\n‎Eski Lara‬ • ‎4.5 km from centre‬\n‎Beachfront‬.\n Hotel room : 1 bed.\n479 USD.\nIncludes taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+      "property": {
+        "propertyClass": 5,
+        "reviewCount": 355,
+        "mainPhotoId": 657497390,
+        "blockIds": [
+          "1225771002_394650903_1_2_0"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.8583603,
+        "isPreferred": true,
+        "accuratePropertyClass": 5,
+        "position": 5,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/657497390.jpg?k=75b664b55903bc21083c8db1d3fb887f44041853e8762c61e58780693a46c5ad&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/657497390.jpg?k=75b664b55903bc21083c8db1d3fb887f44041853e8762c61e58780693a46c5ad&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/657497390.jpg?k=75b664b55903bc21083c8db1d3fb887f44041853e8762c61e58780693a46c5ad&o="
+        ],
+        "checkin": {
+          "fromTime": "15:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.7324009,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 12257710,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.60000038,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 479.019165
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": null
+        },
+        "name": "Delta Hotels by Marriott Antalya Lara - Adult Only 18 Plus",
+        "rankingPosition": 5,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Fabulous",
+        "isFirstPage": true,
+        "isPreferredPlus": false
+      }
+    },
+    {
+      "hotel_id": 86757,
+      "accessibilityLabel": "IC Hotels Airport.\n4 out of 5 stars.\nThis is a Preferred property.\n9.3 Superb 3655 reviews.\n‎10.2 km from centre‬.\nMobile-only price.\nBreakfast included.\n Hotel room : 1 bed.\nOriginal price 456 USD. Current price 411 USD..\nIncludes taxes and charges.\nNo prepayment needed.",
+      "property": {
+        "propertyClass": 4,
+        "reviewCount": 3655,
+        "mainPhotoId": 56941351,
+        "blockIds": [
+          "8675708_389171555_0_41_0_797052"
+        ],
+        "optOutFromGalleryChanges": 1,
+        "latitude": 36.9274712,
+        "isPreferred": true,
+        "accuratePropertyClass": 4,
+        "position": 6,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/56941351.jpg?k=9340488cfbcb3ab9d132225bdf4f2908e58b144d98793620ac732e629f50bbf9&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/56941351.jpg?k=9340488cfbcb3ab9d132225bdf4f2908e58b144d98793620ac732e629f50bbf9&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/56941351.jpg?k=9340488cfbcb3ab9d132225bdf4f2908e58b144d98793620ac732e629f50bbf9&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.8094788,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 86757,
+        "wishlistName": "Antalya",
+        "reviewScore": 9.30000019,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 410.582367
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 456.202515
+          }
+        },
+        "name": "IC Hotels Airport",
+        "rankingPosition": 6,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Superb",
+        "isFirstPage": true,
+        "isPreferredPlus": false
+      }
+    },
+    {
+      "hotel_id": 13374,
+      "accessibilityLabel": "Akra Antalya.\n5 out of 5 stars.\nThis is a Preferred property.\n9.0 Superb 3768 reviews.\n‎Eski Lara‬ • ‎3.7 km from centre‬\n‎Beachfront‬.\nMobile-only price.\n Hotel room : Beds: 1 double or 2 singles.\nOriginal price 1088 USD. Current price 721 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 5,
+        "reviewCount": 3768,
+        "mainPhotoId": 686165738,
+        "blockIds": [
+          "1337403_378589759_1_42_0_534210"
+        ],
+        "optOutFromGalleryChanges": 1,
+        "latitude": 36.8647041,
+        "isPreferred": true,
+        "accuratePropertyClass": 5,
+        "position": 7,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/686165738.jpg?k=d93bddc5922297587011911d4c136e14f1db245c51bff041804b9422164f2b8d&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/686165738.jpg?k=d93bddc5922297587011911d4c136e14f1db245c51bff041804b9422164f2b8d&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/686165738.jpg?k=d93bddc5922297587011911d4c136e14f1db245c51bff041804b9422164f2b8d&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.7275372,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 13374,
+        "wishlistName": "Antalya",
+        "reviewScore": 9,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 720.846863
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 1088.25354
+          }
+        },
+        "name": "Akra Antalya",
+        "rankingPosition": 7,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Superb",
+        "isFirstPage": true,
+        "isPreferredPlus": false
+      }
+    },
+    {
+      "hotel_id": 341500,
+      "accessibilityLabel": "Puding Hotel.\nThis is a Preferred Plus property.\n8.9 Fabulous 883 reviews.\n‎Kaleici‬ • ‎0.8 km from centre‬\n‎150 m from beach‬.\nBreakfast included.\n Hotel room : 1 bed.\nOriginal price 459 USD. Current price 380 USD..\nIncludes taxes and charges.\nOnly 2 left at this price on Booking.com.",
+      "property": {
+        "propertyClass": 0,
+        "reviewCount": 883,
+        "mainPhotoId": 280458369,
+        "blockIds": [
+          "34150008_91923054_1_41_0_679668"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.8838463,
+        "isPreferred": true,
+        "accuratePropertyClass": 0,
+        "position": 8,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/280458369.jpg?k=a4c55b878fb5009f67165c1aa71d5aa49d0b5431aff95a0fadc3eb6710d8fbcd&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/280458369.jpg?k=a4c55b878fb5009f67165c1aa71d5aa49d0b5431aff95a0fadc3eb6710d8fbcd&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/280458369.jpg?k=a4c55b878fb5009f67165c1aa71d5aa49d0b5431aff95a0fadc3eb6710d8fbcd&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.704113,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 341500,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.89999962,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 379.712555
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 458.588806
+          }
+        },
+        "name": "Puding Hotel",
+        "rankingPosition": 8,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Fabulous",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 14088531,
+      "accessibilityLabel": "GRAND MIR'AMOR HOTEL&Spa - ALL INCLUSIVE PLUS CONCEPT.\n5 out of 5 stars.\nThis is a Preferred Plus property.\n7.8 Good 106 reviews.\n‎36.5 km from centre‬\n‎Beachfront‬.\nMobile-only price.\nAll-Inclusive.\n Hotel room : 1 bed.\nOriginal price 2797 USD. Current price 770 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 5,
+        "reviewCount": 106,
+        "mainPhotoId": 687906131,
+        "blockIds": [
+          "1408853105_412663540_0_85_0_1127379"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.5775261,
+        "isPreferred": true,
+        "accuratePropertyClass": 5,
+        "position": 9,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/687906131.jpg?k=f705bbe144385db38fc777f87bf80f8badec529cba70f69d16688b70cb74a7e4&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/687906131.jpg?k=f705bbe144385db38fc777f87bf80f8badec529cba70f69d16688b70cb74a7e4&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/687906131.jpg?k=f705bbe144385db38fc777f87bf80f8badec529cba70f69d16688b70cb74a7e4&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:30"
+        },
+        "longitude": 30.5819035,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 14088531,
+        "wishlistName": "Antalya",
+        "reviewScore": 7.80000019,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 770.023132
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 2797.37524
+          }
+        },
+        "name": "GRAND MIR'AMOR HOTEL&Spa - ALL INCLUSIVE PLUS CONCEPT",
+        "rankingPosition": 9,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 10010858,
+      "accessibilityLabel": "Mrt Suites Lara.\n4 out of 5 for property rating.\nThis is a Preferred Plus property.\n7.9 Good 792 reviews.\n‎12.6 km from centre‬\n‎1.9 km from beach‬.\nGetaway Deal.\nBreakfast included.\n Private suite – 40 m² : 2 beds • 1 bedroom • 1 living room • 1 bathroom.\nOriginal price 500 USD. Current price 300 USD..\nIncludes taxes and charges.\nOnly 1 left at this price on Booking.com.",
+      "property": {
+        "propertyClass": 0,
+        "reviewCount": 792,
+        "mainPhotoId": 462882355,
+        "blockIds": [
+          "1001085805_372918498_3_1_0_833392"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.8612671,
+        "isPreferred": true,
+        "accuratePropertyClass": 0,
+        "position": 10,
+        "qualityClass": 4,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/462882355.jpg?k=80a4b209e7dbafc2450afc03e73b844f40b1611b49411ebe46d2e049af649f79&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/462882355.jpg?k=80a4b209e7dbafc2450afc03e73b844f40b1611b49411ebe46d2e049af649f79&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/462882355.jpg?k=80a4b209e7dbafc2450afc03e73b844f40b1611b49411ebe46d2e049af649f79&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.8397007,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 10010858,
+        "wishlistName": "Antalya",
+        "reviewScore": 7.9000001,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 300.040985
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Getaway Deal",
+              "explanation": "Getaway Deal",
+              "identifier": "Getaway 2021 Deals",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 500.068115
+          }
+        },
+        "name": "Mrt Suites Lara",
+        "rankingPosition": 10,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 6675790,
+      "accessibilityLabel": "RuinAdalia Hotel - Adult Only.\nThis is a Preferred Plus property.\n9.0 Superb 696 reviews.\n‎Kaleici‬ • ‎0.9 km from centre‬\n‎350 m from beach‬.\n Room with shared bathroom : 1 bed.\n474 USD.\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 0,
+        "reviewCount": 696,
+        "mainPhotoId": 472074923,
+        "blockIds": [
+          "667579003_0_1_0_0"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.8839073,
+        "isPreferred": true,
+        "accuratePropertyClass": 0,
+        "position": 11,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/472074923.jpg?k=a6f1f5d25d13eed657d5941e34be96eb1f6860fbc82b30acd9c3092de6f4f344&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/472074923.jpg?k=a6f1f5d25d13eed657d5941e34be96eb1f6860fbc82b30acd9c3092de6f4f344&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/472074923.jpg?k=a6f1f5d25d13eed657d5941e34be96eb1f6860fbc82b30acd9c3092de6f4f344&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.7067986,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 6675790,
+        "wishlistName": "Antalya",
+        "reviewScore": 9,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "11:30"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 474.040009
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": null
+        },
+        "name": "RuinAdalia Hotel - Adult Only",
+        "rankingPosition": 11,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Superb",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 11775225,
+      "accessibilityLabel": "Four Hills Hotel.\n3 out of 5 stars.\nThis is a Preferred Plus property.\n9.0 Superb 135 reviews.\n‎Konyaalti Beach‬ • ‎6.9 km from centre‬\n‎250 m from beach‬.\n Hotel room : 1 bed.\n494 USD.\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 3,
+        "reviewCount": 135,
+        "mainPhotoId": 690792148,
+        "blockIds": [
+          "1177522501_0_1_0_0"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.8622055,
+        "isPreferred": true,
+        "accuratePropertyClass": 3,
+        "position": 12,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/690792148.jpg?k=f3018da4a18fe56281905a7b1491c0c36109894822fe429b4f4586015f4a9a6c&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/690792148.jpg?k=f3018da4a18fe56281905a7b1491c0c36109894822fe429b4f4586015f4a9a6c&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/690792148.jpg?k=f3018da4a18fe56281905a7b1491c0c36109894822fe429b4f4586015f4a9a6c&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "14:00"
+        },
+        "longitude": 30.6345215,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 11775225,
+        "wishlistName": "Antalya",
+        "reviewScore": 9,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "12:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 494.410004
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": null
+        },
+        "name": "Four Hills Hotel",
+        "rankingPosition": 12,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Superb",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 86250,
+      "accessibilityLabel": "Rixos Downtown Antalya - The Land Of Legends Access.\n5 out of 5 stars.\nThis is a Preferred property.\n8.7 Fabulous 2212 reviews.\n‎2.6 km from centre‬\n‎Beachfront‬.\nAll-Inclusive.\n Hotel room : 3 beds.\nOriginal price 2369 USD. Current price 1421 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 5,
+        "reviewCount": 2212,
+        "mainPhotoId": 579989812,
+        "blockIds": [
+          "8625032_91462531_2_85_0"
+        ],
+        "optOutFromGalleryChanges": 1,
+        "latitude": 36.8870697,
+        "isPreferred": true,
+        "accuratePropertyClass": 5,
+        "position": 13,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/579989812.jpg?k=51902d9b831a70e5a8b91c046eb9f15b50d000527ad242aa1c2022479f743a2a&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/579989812.jpg?k=51902d9b831a70e5a8b91c046eb9f15b50d000527ad242aa1c2022479f743a2a&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/579989812.jpg?k=51902d9b831a70e5a8b91c046eb9f15b50d000527ad242aa1c2022479f743a2a&o="
+        ],
+        "checkin": {
+          "fromTime": "15:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.6746216,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 86250,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.69999981,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "11:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 1421.24622
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 2368.74365
+          }
+        },
+        "name": "Rixos Downtown Antalya - The Land Of Legends Access",
+        "rankingPosition": 13,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Fabulous",
+        "isFirstPage": true,
+        "isPreferredPlus": false
+      }
+    },
+    {
+      "hotel_id": 8349491,
+      "accessibilityLabel": "STELLA HOTEL&Spa ALL INCLUSIVE.\n4 out of 5 stars.\nThis is a Preferred Plus property.\n8.1 Very good 1504 reviews.\n‎39.2 km from centre‬\n‎Beachfront‬.\nMobile-only price.\nAll-Inclusive.\n Hotel room : Beds: 1 double or 2 singles.\nOriginal price 3662 USD. Current price 1008 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 4,
+        "reviewCount": 1504,
+        "mainPhotoId": 434355994,
+        "blockIds": [
+          "834949103_348898826_2_85_0_1128772"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.5565681,
+        "isPreferred": true,
+        "accuratePropertyClass": 4,
+        "position": 14,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/434355994.jpg?k=a0b72fc98499ff7a5bf096412b7f85aa29a794d6038f6a280f66d311cc20bbed&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/434355994.jpg?k=a0b72fc98499ff7a5bf096412b7f85aa29a794d6038f6a280f66d311cc20bbed&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/434355994.jpg?k=a0b72fc98499ff7a5bf096412b7f85aa29a794d6038f6a280f66d311cc20bbed&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.5642967,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 8349491,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.10000038,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:30",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 1007.90338
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 3661.55151
+          }
+        },
+        "name": "STELLA HOTEL&Spa ALL INCLUSIVE",
+        "rankingPosition": 14,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 11257491,
+      "accessibilityLabel": "ASTORIA PARK Hotel & Spa ALL INCLUSIVE SELECTION.\n4 out of 5 stars.\nThis is a Preferred Plus property.\n8.0 Very good 513 reviews.\n‎34.6 km from centre‬\n‎Beachfront‬.\nMobile-only price.\nAll-Inclusive.\n Hotel room : 1 bed.\nOriginal price 1964 USD. Current price 541 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 4,
+        "reviewCount": 513,
+        "mainPhotoId": 524249996,
+        "blockIds": [
+          "1125749104_385248295_0_85_0_1128774"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.6018028,
+        "isPreferred": true,
+        "accuratePropertyClass": 4,
+        "position": 15,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/524249996.jpg?k=0ed52b76bd0575cdbeff1cfaa199c4c9fe0d4c8ffe49b070a506c5c408cbf774&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/524249996.jpg?k=0ed52b76bd0575cdbeff1cfaa199c4c9fe0d4c8ffe49b070a506c5c408cbf774&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/524249996.jpg?k=0ed52b76bd0575cdbeff1cfaa199c4c9fe0d4c8ffe49b070a506c5c408cbf774&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.5627213,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 11257491,
+        "wishlistName": "Antalya",
+        "reviewScore": 8,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:30",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 540.752136
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 1964.47815
+          }
+        },
+        "name": "ASTORIA PARK Hotel & Spa ALL INCLUSIVE SELECTION",
+        "rankingPosition": 15,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 186977,
+      "accessibilityLabel": "Crowne Plaza Antalya by IHG.\n5 out of 5 stars.\nThis is a Preferred property.\n7.7 Good 2498 reviews.\n‎Konyaalti Beach‬ • ‎7.4 km from centre‬\n‎Beachfront‬.\n Hotel room : 2 beds.\n550 USD.\nIncludes taxes and charges.\nFree cancellation.\nNo prepayment needed.",
+      "property": {
+        "propertyClass": 5,
+        "reviewCount": 2498,
+        "mainPhotoId": 242976733,
+        "blockIds": [
+          "18697706_244370580_1_42_0"
+        ],
+        "optOutFromGalleryChanges": 1,
+        "latitude": 36.8583221,
+        "isPreferred": true,
+        "accuratePropertyClass": 5,
+        "position": 16,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/242976733.jpg?k=07024a4a313f3fae4710ff84ff76a4db16efb472f5051a7bf5b0ae9b09b6e78f&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/242976733.jpg?k=07024a4a313f3fae4710ff84ff76a4db16efb472f5051a7bf5b0ae9b09b6e78f&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/242976733.jpg?k=07024a4a313f3fae4710ff84ff76a4db16efb472f5051a7bf5b0ae9b09b6e78f&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.6308155,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 186977,
+        "wishlistName": "Antalya",
+        "reviewScore": 7.69999981,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 549.782593
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": null
+        },
+        "name": "Crowne Plaza Antalya by IHG",
+        "rankingPosition": 16,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Good",
+        "isFirstPage": true,
+        "isPreferredPlus": false
+      }
+    },
+    {
+      "hotel_id": 11102022,
+      "accessibilityLabel": "MIR'AMOR GARDEN Resort Hotel-ALL INCLUSIVE.\n4 out of 5 stars.\nThis is a Preferred Plus property.\n8.2 Very good 766 reviews.\n‎37.4 km from centre‬\n‎Beachfront‬.\nMobile-only price.\nAll-Inclusive.\n Hotel room : 1 bed.\nOriginal price 1874 USD. Current price 516 USD..\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 4,
+        "reviewCount": 766,
+        "mainPhotoId": 522521641,
+        "blockIds": [
+          "1110202206_383761663_0_85_0_1128773"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.5704193,
+        "isPreferred": true,
+        "accuratePropertyClass": 4,
+        "position": 17,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/522521641.jpg?k=8aa696183990b9774e11ed73336003ada68eb7f08a2447793835ba3a2bbdde58&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/522521641.jpg?k=8aa696183990b9774e11ed73336003ada68eb7f08a2447793835ba3a2bbdde58&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/522521641.jpg?k=8aa696183990b9774e11ed73336003ada68eb7f08a2447793835ba3a2bbdde58&o="
+        ],
+        "checkin": {
+          "fromTime": "00:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.5763493,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 11102022,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.19999981,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "00:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 515.824646
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 1873.93945
+          }
+        },
+        "name": "MIR'AMOR GARDEN Resort Hotel-ALL INCLUSIVE",
+        "rankingPosition": 17,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 418218,
+      "accessibilityLabel": "Elegance East Hotel.\nThis is a Preferred Plus property.\n8.2 Very good 509 reviews.\n‎Kaleici‬ • ‎1 km from centre‬\n‎550 m from beach‬.\n1 bed.\n366 USD.\nIncludes taxes and charges.",
+      "property": {
+        "propertyClass": 0,
+        "reviewCount": 509,
+        "mainPhotoId": 607696351,
+        "blockIds": [
+          "0_0_1_0_0"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.8840523,
+        "isPreferred": true,
+        "accuratePropertyClass": 0,
+        "position": 18,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/607696351.jpg?k=55dc0fc68b0e26dcfbdd56fcb2df883b272840608b1de36abca476bd84c10dc1&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/607696351.jpg?k=55dc0fc68b0e26dcfbdd56fcb2df883b272840608b1de36abca476bd84c10dc1&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/607696351.jpg?k=55dc0fc68b0e26dcfbdd56fcb2df883b272840608b1de36abca476bd84c10dc1&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.7090702,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 418218,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.19999981,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 366.140015
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [],
+          "strikethroughPrice": null
+        },
+        "name": "Elegance East Hotel",
+        "rankingPosition": 18,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    },
+    {
+      "hotel_id": 366134,
+      "accessibilityLabel": "Azuu Boutique Hotel.\nThis is a Preferred Plus property.\n8.4 Very good 792 reviews.\n‎Eski Lara‬ • ‎7.3 km from centre‬\n‎1.9 km from beach‬.\nMobile-only price.\nBreakfast included.\n Hotel room : 1 bed.\nOriginal price 473 USD. Current price 249 USD..\nIncludes taxes and charges.\nNo prepayment needed.\nOnly 2 left at this price on Booking.com.",
+      "property": {
+        "propertyClass": 0,
+        "reviewCount": 792,
+        "mainPhotoId": 566132359,
+        "blockIds": [
+          "36613406_415428929_1_1_0_905251"
+        ],
+        "optOutFromGalleryChanges": 0,
+        "latitude": 36.8502235,
+        "isPreferred": true,
+        "accuratePropertyClass": 0,
+        "position": 19,
+        "qualityClass": 0,
+        "photoUrls": [
+          "https://cf.bstatic.com/xdata/images/hotel/square500/566132359.jpg?k=baf2464ae73737ba052632f8f4e96ec02dcd1837be6601ed4ce6530e774d96ff&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square1024/566132359.jpg?k=baf2464ae73737ba052632f8f4e96ec02dcd1837be6601ed4ce6530e774d96ff&o=",
+          "https://cf.bstatic.com/xdata/images/hotel/square2000/566132359.jpg?k=baf2464ae73737ba052632f8f4e96ec02dcd1837be6601ed4ce6530e774d96ff&o="
+        ],
+        "checkin": {
+          "fromTime": "14:00",
+          "untilTime": "00:00"
+        },
+        "longitude": 30.7673512,
+        "ufi": -735347,
+        "currency": "EUR",
+        "id": 366134,
+        "wishlistName": "Antalya",
+        "reviewScore": 8.39999962,
+        "countryCode": "tr",
+        "checkout": {
+          "untilTime": "12:00",
+          "fromTime": "00:00"
+        },
+        "priceBreakdown": {
+          "grossPrice": {
+            "currency": "USD",
+            "value": 248.501801
+          },
+          "taxExceptions": [],
+          "excludedPrice": null,
+          "benefitBadges": [
+            {
+              "text": "Mobile-only price",
+              "explanation": "Mobile-only price",
+              "identifier": "Mobile Rate",
+              "variant": "constructive"
+            }
+          ],
+          "strikethroughPrice": {
+            "currency": "USD",
+            "value": 473.257446
+          }
+        },
+        "name": "Azuu Boutique Hotel",
+        "rankingPosition": 19,
+        "checkinDate": "2025-07-23",
+        "checkoutDate": "2025-07-26",
+        "reviewScoreWord": "Very good",
+        "isFirstPage": true,
+        "isPreferredPlus": true
+      }
+    }
+  ]
+

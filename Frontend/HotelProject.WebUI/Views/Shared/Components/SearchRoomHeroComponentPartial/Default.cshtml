@@ -1,0 +1,83 @@
+﻿@using RapidApiHotelProject.Models
+@model HotelSearchViewModel
+
+<style>
+    .scroll-select {
+        max-height: 200px;
+        overflow-y: auto;
+    }
+</style>
+
+
+
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+            <h6 class="section-title text-center text-primary text-uppercase">Dilediğiniz Odayı Gönül Rahatlığıyla Anında Arayabilirsiniz</h6>
+            <h1 class="mb-5">Odanızı Şimdi <span class="text-primary text-uppercase">Bulun</span></h1>
+        </div>
+        <div class="row g-5">
+            <div class="col-lg-6">
+                <div class="hero-text">
+                    <h1>Otelimize Hoşgeldiniz</h1>
+                    <br />
+                    <p>
+                        🌙 Mükemmeli Keşfet, Kusursuzu Seç
+                        Hayalinizdeki odayı birkaç tıkla bulun: konfor, şıklık ve benzersiz manzara sizi bekliyor. Sadece tarihlerinizi seçin, kalan her şeyi biz halledelim. Hemen ara—mükemmel konaklama sizinle buluşmak için hazır!
+                    </p>
+                    <a href="#" class="primary-btn">Discover Now</a>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="wow fadeInUp" data-wow-delay="0.2s">
+                    <form method="post" asp-controller="SearchRoom" asp-action="GetSearchHotelList">
+                        <div class="row g-3">
+                            <div >
+                            <label class="form-label">Şehir</label>
+
+                            <input type="text" asp-for=City class="form-control" placeholder="ör: Antalya" />
+
+                        </div>
+                        <br />
+                            <div class="col-md-6">
+                            <label class="form-label">Giriş Tarihi:</label>
+                            <input type="date" asp-for="ArrivalDate" class="form-control" required />
+                        </div>
+                        <br />
+                            <div class ="col-md-6">
+                            <label class="form-label">Çıkış Tarihi:</label>
+                            <input type="date" asp-for="DepartureDate" class="form-control" required />
+                        </div>
+                        <br />
+                            <div class="col-md-6">
+                            <label class="form-label">Yetişkin Sayısı:</label>
+                            <select asp-for="Adults" class="form-select">
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                                <option value="3">3</option>
+                            </select>
+                        </div>
+                        <br />
+                            <div class="col-md-6">
+                            <label class="form-label">Çocukların Yaşları</label>
+                                <input type="text" asp-for="ChildrenAge" class="form-control" value="0" placeholder="virgülle ayırarak giriniz ör:1, 17:" />
+                        </div>
+                        <br />
+                        <div class="">
+                            <label class="form-label">Oda Sayısı:</label>
+                            <select asp-for="RoomQty" class="form-select">
+                                <option value="1">1 Oda</option>
+                                <option value="2">2 Oda</option>
+                                <option value="3">3 Oda</option>
+                            </select>
+                        </div>
+                        </div>
+                        <br />
+                        <button type="submit" class="btn btn-primary">Odaları Keşfet</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

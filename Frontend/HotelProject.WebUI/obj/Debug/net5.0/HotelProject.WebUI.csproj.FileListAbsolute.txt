@@ -262,3 +262,12 @@ C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\De
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\HotelProject.WebUI.genruntimeconfig.cache
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\ref\HotelProject.WebUI.dll
 C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\WorkLocation\UpdateWorkLocation.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\SearchRoom\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\SearchRoomHeroComponentPartial\Default.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Room\Index.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\_RoomCoverPartial\Default.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\_SearchRoomPartial\Default.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Room\RoomList.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\SearchRoom\GetSearchRoomList.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Room\GetSearchHotelList.cshtml.g.cs
+C:\Users\Cansu\source\repos\MyHotelApiProject\Frontend\HotelProject.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Components\_AvailableRoomPartial\Default.cshtml.g.cs

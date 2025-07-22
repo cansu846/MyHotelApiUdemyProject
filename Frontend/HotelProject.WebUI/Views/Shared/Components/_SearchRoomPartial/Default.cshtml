@@ -1,0 +1,60 @@
+﻿@using RapidApiHotelProject.Models
+@model HotelSearchViewModel
+
+<div class="container-fluid booking pb-5 wow fadeIn" data-wow-delay="0.1s">
+    <div class="container">
+        <div class="bg-white shadow" style="padding: 35px;">
+            <form method="post" asp-controller="Room" asp-action="GetSearchHotelList">
+
+                <div class="row g-2">
+                    <div class="col-md-12">
+                        <div class="row g-2">
+                            <div class="col-md">
+                                <div class="" id="">
+                                    <input type="text" asp-for=City class="form-control" placeholder="Şehir ör.: Antalya" />
+
+                                </div>
+                            </div>
+
+                            <div class="col-md">
+                                <div class="date" id="date1" data-target-input="nearest">
+                                    <input type="text" class="form-control datetimepicker-input"
+                                           placeholder="Giriş Tarihi" data-target="#date1" data-toggle="datetimepicker" />
+                                </div>
+                            </div>
+                            <div class="col-md">
+                                <div class="date" id="date2" data-target-input="nearest">
+                                    <input type="text" class="form-control datetimepicker-input" placeholder="Çikiş Tarihi" data-target="#date2" data-toggle="datetimepicker" />
+                                </div>
+                            </div>
+                            <div class="col-md">
+                                <select asp-for="Adults" class="form-select">
+                                    <option value="">Kişi Sayısı Seçiniz</option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                </select>
+                            </div>
+                            <div class="col-md">
+                                <select asp-for="RoomQty" class="form-select">
+                                    <option value="">Oda Seçiniz</option>
+                                    <option value="1">1 Oda</option>
+                                    <option value="2">2 Oda</option>
+                                    <option value="3">3 Oda</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <br />
+                <div class="row justify-content-center">
+                    <div class="col-md-2 d-flex justify-content-center">
+                        <button class="btn btn-primary w-100">Hemen Odanı Bul</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</div>
